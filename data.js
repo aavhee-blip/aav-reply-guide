@@ -13,7 +13,7 @@ const rows=[
     "주문 접수",
     "유니폼 제작을 문의할 때",
     "신규 신청 구글폼 주문서 링크 제작 주문",
-    "안녕하세요! 유니폼 주문 도와드리겠습니다 😊\n아래 링크에서 주문서를 작성해주시면, 확인 후 연락드리겠습니다!\n👉https://docs.google.com/forms/d/e/1FAIpQLSeOk_EFn3c-Q1esfzWpWiQBxeZbbf6Wsijk9RIrwzBuW6C6lA/viewform?usp=header",
+    "안녕하세요! 유니폼 주문 도와드리겠습니다 😊\n아래 링크에서 주문서를 작성해주시면, 확인 후 연락드리겠습니다!\n👉https://docs.google.com/forms/d/e/1FAIpQLSd4X2Cb4FiR52EWZKV1_dDQcrPo4z29qFQCVOYPZZoiPBQERQ/viewform?usp=header",
     "첫 주문 문의에는 구글폼 링크를 안내합니다. 작업지시서 작성 요청은 ‘최소 주문 수량·소량 제작’ 항목에서 안내합니다."
   ],
   [
